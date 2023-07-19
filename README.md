@@ -9,4 +9,5 @@
 - MongoDB 
 - Mongoose
 
-![image](https://github.com/andreamatos/task-manager/assets/42948627/4ab970e2-e172-4a04-b0c3-6a24000e0e4e)
+![image](https://github.com/andreamatos/task-manager/assets/42948627/91dfe516-541e-4eed-b957-8c0c42ab97e0)
+
